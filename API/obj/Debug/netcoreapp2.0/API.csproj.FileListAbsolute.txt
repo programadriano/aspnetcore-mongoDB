@@ -1,0 +1,11 @@
+C:\projects\meedium\Auth\API\bin\Debug\netcoreapp2.0\API.deps.json
+C:\projects\meedium\Auth\API\bin\Debug\netcoreapp2.0\API.runtimeconfig.json
+C:\projects\meedium\Auth\API\bin\Debug\netcoreapp2.0\API.runtimeconfig.dev.json
+C:\projects\meedium\Auth\API\bin\Debug\netcoreapp2.0\API.dll
+C:\projects\meedium\Auth\API\bin\Debug\netcoreapp2.0\API.pdb
+C:\projects\meedium\Auth\API\obj\Debug\netcoreapp2.0\API.csprojResolveAssemblyReference.cache
+C:\projects\meedium\Auth\API\obj\Debug\netcoreapp2.0\API.csproj.CoreCompileInputs.cache
+C:\projects\meedium\Auth\API\obj\Debug\netcoreapp2.0\API.AssemblyInfoInputs.cache
+C:\projects\meedium\Auth\API\obj\Debug\netcoreapp2.0\API.AssemblyInfo.cs
+C:\projects\meedium\Auth\API\obj\Debug\netcoreapp2.0\API.dll
+C:\projects\meedium\Auth\API\obj\Debug\netcoreapp2.0\API.pdb
